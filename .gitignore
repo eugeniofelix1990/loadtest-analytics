@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Base de datos local y datos procesados (reconstruibles por el pipeline)
+*.sqlite
+*.db
+data/processed/*
+!data/processed/.gitkeep
+
+# Reportes temporales
+reports/figures/*.tmp

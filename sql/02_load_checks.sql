@@ -1,0 +1,1 @@
+-- 02_load_checks.sql: Data validation, null checks, and integrity queries

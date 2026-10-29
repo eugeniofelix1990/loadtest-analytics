@@ -1,0 +1,1 @@
+-- 01_schema.sql: DDL tables for load test raw logs and metrics
